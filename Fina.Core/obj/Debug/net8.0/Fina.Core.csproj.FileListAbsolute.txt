@@ -1,0 +1,12 @@
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\bin\Debug\net8.0\Fina.Core.deps.json
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\bin\Debug\net8.0\Fina.Core.dll
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\bin\Debug\net8.0\Fina.Core.pdb
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.AssemblyInfoInputs.cache
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.AssemblyInfo.cs
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.csproj.CoreCompileInputs.cache
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.sourcelink.json
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.dll
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\obj\Debug\net8.0\refint\Fina.Core.dll
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.pdb
+C:\Users\phlga\OneDrive\Documentos\devprod\Fina\Fina.Core\obj\Debug\net8.0\ref\Fina.Core.dll

@@ -1,6 +1,6 @@
 namespace Fina.Core.Requests.Categories;
 
-public class DeleteCategoryRequest
+public class DeleteCategoryRequest : Request
 {
-    
+    public long Id { get; set; }
 }

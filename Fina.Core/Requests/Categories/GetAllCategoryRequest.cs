@@ -1,6 +1,6 @@
 namespace Fina.Core.Requests.Categories;
 
-public class GetAllCategoryRequest
+public class GetAllCategoryRequest : PagedRequest
 {
     
 }
